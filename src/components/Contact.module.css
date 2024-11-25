@@ -1,0 +1,36 @@
+.name,
+.number {
+  display: flex;
+  align-items: center;
+}
+
+.name p,
+.number p {
+  margin-left: 8px;
+}
+
+.contactCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 400px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.btn {
+  height: 30px;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

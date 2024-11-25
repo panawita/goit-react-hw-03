@@ -7,6 +7,7 @@
   border-radius: 5px;
   padding: 20px;
   font-size: 16px;
+  margin-bottom: 30px;
 }
 
 .cluster {
@@ -26,6 +27,6 @@
 .field {
   font-size: 16px;
   border: 0.5px solid black;
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
 }

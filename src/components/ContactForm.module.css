@@ -1,0 +1,31 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 400px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.cluster {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.button {
+  width: auto;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.field {
+  font-size: 16px;
+  border: 0.5px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
